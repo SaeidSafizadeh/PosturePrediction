@@ -29,7 +29,7 @@ That page contains:
 ---
 
 ## 📂 Repository Contents
-- *This repository will be updated to include*:
+- *This repository **will be** updated to include*:
   - **Force measurement setup files** (CAD, drawings)
   - **Data logging scripts** and CSV schema
   - **OpenSim processing scripts**
